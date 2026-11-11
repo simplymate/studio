@@ -1,15 +1,15 @@
 {
-  "version": "0.1.0-beta.21",
-  "notes": "https://github.com/simplymate/studio/releases/tag/desktop-v0.1.0-beta.21",
-  "pub_date": "2026-11-11T00:15:51Z",
+  "version": "0.1.0-beta.22",
+  "notes": "https://github.com/simplymate/studio/releases/tag/desktop-v0.1.0-beta.22",
+  "pub_date": "2026-11-11T04:39:32Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIG1pbmlzaWduIHNlY3JldCBrZXkKUlVSQU1tZUpoaEtieFVHVG9DZmtmdTVXSjhrSTVUdEJSVzUwSWFsZEl2d2EyV0RzUkttUlZ4WFJhalc4L2U2RnRGbUJGRDlzZXAxY2Z4M1VpZDhpeTZnQ1BabTIwZXpIY2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzU2MTM5CWZpbGU6U2ltcGx5bWF0ZS1TdHVkaW9fMC4xLjAtYmV0YS4yMV91bml2ZXJzYWwuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wLWJldGEuMjEKcFh2L2ZOdUIxTUxnUkQxcmJsSkZnSkhTUjIyWkhIR3p3MmRHazJ4bm8wbWhZeEtjdEYwL1p5dTBJbGI4NjZFQlUxMXB3akVySG9jZkpEcHV6TGxnQ0E9PQo=",
-      "url": "https://github.com/simplymate/studio/releases/download/desktop-v0.1.0-beta.21/Simplymate-Studio_0.1.0-beta.21_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIG1pbmlzaWduIHNlY3JldCBrZXkKUlVSQU1tZUpoaEtieFVmTlVRYjBJcEErdDVpblZ0Mk94ZXdvUVNtbGwzbUlXcXpWOVVDV0JGWnFNRy9JbmlaOUlOQUlPdmIrMHVBOFRsWFZqOXhNQys2TFBaK0NQMFRHM3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzcxOTU5CWZpbGU6U2ltcGx5bWF0ZS1TdHVkaW9fMC4xLjAtYmV0YS4yMl91bml2ZXJzYWwuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wLWJldGEuMjIKaWhCU2pKK0tXVG4yUW12dllWV0dkZzRJV2cxVzBKUWxvVk9aMGRORkRnZHZvMmFZbFY5aXA5TGlPSk5tYW55ZUlkajkrNk1PY3hZLzlWRnp1a1RmRHc9PQo=",
+      "url": "https://github.com/simplymate/studio/releases/download/desktop-v0.1.0-beta.22/Simplymate-Studio_0.1.0-beta.22_universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIG1pbmlzaWduIHNlY3JldCBrZXkKUlVSQU1tZUpoaEtieFVHVG9DZmtmdTVXSjhrSTVUdEJSVzUwSWFsZEl2d2EyV0RzUkttUlZ4WFJhalc4L2U2RnRGbUJGRDlzZXAxY2Z4M1VpZDhpeTZnQ1BabTIwZXpIY2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzU2MTM5CWZpbGU6U2ltcGx5bWF0ZS1TdHVkaW9fMC4xLjAtYmV0YS4yMV91bml2ZXJzYWwuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wLWJldGEuMjEKcFh2L2ZOdUIxTUxnUkQxcmJsSkZnSkhTUjIyWkhIR3p3MmRHazJ4bm8wbWhZeEtjdEYwL1p5dTBJbGI4NjZFQlUxMXB3akVySG9jZkpEcHV6TGxnQ0E9PQo=",
-      "url": "https://github.com/simplymate/studio/releases/download/desktop-v0.1.0-beta.21/Simplymate-Studio_0.1.0-beta.21_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIG1pbmlzaWduIHNlY3JldCBrZXkKUlVSQU1tZUpoaEtieFVmTlVRYjBJcEErdDVpblZ0Mk94ZXdvUVNtbGwzbUlXcXpWOVVDV0JGWnFNRy9JbmlaOUlOQUlPdmIrMHVBOFRsWFZqOXhNQys2TFBaK0NQMFRHM3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzcxOTU5CWZpbGU6U2ltcGx5bWF0ZS1TdHVkaW9fMC4xLjAtYmV0YS4yMl91bml2ZXJzYWwuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wLWJldGEuMjIKaWhCU2pKK0tXVG4yUW12dllWV0dkZzRJV2cxVzBKUWxvVk9aMGRORkRnZHZvMmFZbFY5aXA5TGlPSk5tYW55ZUlkajkrNk1PY3hZLzlWRnp1a1RmRHc9PQo=",
+      "url": "https://github.com/simplymate/studio/releases/download/desktop-v0.1.0-beta.22/Simplymate-Studio_0.1.0-beta.22_universal.app.tar.gz"
     }
   },
   "simplymate": {
